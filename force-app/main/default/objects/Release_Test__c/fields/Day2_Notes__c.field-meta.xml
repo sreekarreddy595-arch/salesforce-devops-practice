@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Day2_Notes__c</fullName>
+    <description>Updated by Team Two</description>
     <externalId>false</externalId>
     <label>Team1 Notes</label>
     <length>250</length>
